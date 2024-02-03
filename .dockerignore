@@ -1,6 +1,0 @@
-build/
-vendor/
-db/data/
-log/
-.git*
-db.backup*
